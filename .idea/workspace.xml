@@ -19,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ngB0CYK7xWinDojLHxfr9T8KcL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -76,23 +80,39 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="23" key="#Project_Structure/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1611891192321" />
-    <state x="434" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1613726046729">
+    <state x="434" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1613728085641">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="434" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1613726046729" />
+    <state x="434" y="148" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1613728085641" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1613724435529">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1613724435529" />
+    <state width="1048" height="179" key="GridCell.Tab.0.bottom" timestamp="1613727720385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1048" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1613727720385" />
+    <state width="1048" height="179" key="GridCell.Tab.0.center" timestamp="1613727720384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1048" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1613727720384" />
+    <state width="1048" height="179" key="GridCell.Tab.0.left" timestamp="1613727720383">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1048" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1613727720383" />
+    <state width="1048" height="179" key="GridCell.Tab.0.right" timestamp="1613727720384">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1048" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1613727720384" />
     <state x="1665" y="27" key="Maven.ArtifactSearchDialog" timestamp="1613704487001">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1613702681423" />
     <state x="1665" y="27" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1613704487001" />
-    <state x="184" y="0" key="SettingsEditor" timestamp="1613726086138">
+    <state x="184" y="0" key="SettingsEditor" timestamp="1613728093189">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1613726086138" />
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1613728093189" />
     <state x="1989" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1613720208082">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
